@@ -1,0 +1,3 @@
+[submodule "registry-using-java-succint"]
+	path = registry-using-java-succint
+	url = https://github.com/venkatramanm/beckn-registry.git
